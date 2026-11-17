@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-larco-albertini-1a1038258/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dlarco8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://danilarco.github.io"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
